@@ -17,3 +17,12 @@ I created this project for a software development class. It's very basic, and no
 * The code is beefy. I could have made things easier for myself by using display lists.
 * Mouse controls are wonky 
 * Textures don't wrap perfectly 
+
+### CREDITS
+For SOIL (Simple OpenGL Image Library), which I used to easily use textures in this program
+Jonathan Dummer
+Sean Barret
+Dan Venkitachalam
+& gamedev.net
+
+...and also Nehe Productions (http://nehe.gamedev.net/)
