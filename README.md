@@ -14,7 +14,8 @@ You will need to install the following for this program to run:
 I created this project for a software development class. It's very basic, and nothing special. Any critique is appreciated and welcome. Please contact me at dori.p.chan@gmail.com! 
 
 #### CONTROLS
-  RIGHT MOUSE CLICK = menu
+
+	RIGHT MOUSE CLICK = menu
   
 	UP ARROW = move obj
 	
